@@ -3,7 +3,7 @@ Tool Asisted Benchmark for Guild Wars 2
 
 #TODO
 - support key combo (alt+1)
-- support multiple keyboards (querty,azerty...)
+- support multiple keyboards (qwerty,azerty...)
 - Correct the readme
 
 # Setup 
