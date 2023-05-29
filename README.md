@@ -16,7 +16,7 @@ Tool Asisted Benchmark for Guild Wars 2
 # How to Use
 
 ## Record
-To record a rotation, use "record_keyboard_input.py" , start the script (console or IDE). To start recording press "Key.home"(Querty) or "Début"(Azerty). To stop the record, press "Escape".
+To record a rotation, use "record_keyboard_input.py" , start the script (console or IDE). To start recording press "Key.home"(qwerty) or "Début"(Azerty). To stop the record, press "Escape".
 Start and stop keybind can be edited at the beginning of the script 
 ```
 key_start = 'Key.home'
@@ -27,9 +27,9 @@ A file "input_records.txt" will be generated, containing your keylogged rotation
 
 # Run
 
-To run a rotation with gw2_TAb, use "run_keyboard_input.py", start the script (console or IDE). To start press "Key.home"(Querty) or "Début"(Azerty). To stop the record, press "Escape".
+To run a rotation with gw2_TAb, use "run_keyboard_input.py", start the script (console or IDE). To start press "Key.home"(qwerty) or "Début"(Azerty). To stop the record, press "Escape".
 
-For now it only support querty keyboards inputs, special keys can be edited and modified at the beginning of the file. Respecting "Pynput" format.
+For now it only support qwerty keyboards inputs, special keys can be edited and modified at the beginning of the file. Respecting "Pynput" format.
 
 ```
 special_keys = {
